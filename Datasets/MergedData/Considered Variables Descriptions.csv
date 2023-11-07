@@ -1,0 +1,44 @@
+Original Variable Name,Working Variable Name,Description of Variable
+PopChg,PopChg,Change in population 16 yrs and older year over year (derived from DP03__0001E Population 16 years and older)
+DP03_0014E,OwnChildren,Number of Own children of the householder under 6 years
+DP03_0018E,C_N,Commuting - Workers 16 years and over
+DP03_0019E,C_CTV,"Commuting - Car, truck, or van -- drove alone"
+DP03_0020E,C_CTV_CP,"Commuting - Car, truck, or van -- carpooled"
+DP03_0021E,C_PT,Commuting - Public transportation (excluding taxicab)
+DP03_0022E,C_W,Commuting - Walked
+DP03_0023E,C_O,Commuting - Other
+DP03_0024E,C_WFH,Commuting - WFH
+DP03_0025E,MeanTravel,Mean travel time to work (minutes)
+DP03_0026E,O_N,Civilian employed population 16 years and over
+DP03_0027E,O_MBSA,"Civilian employed population 16 years and over!!Management, business, science, and arts occupations"
+DP03_0028E,O_SE,Num Employed - Service occupations
+DP03_0029E,O_SO,Num Employed - Sales and office occupations
+DP03_0030E,O_NRCM,"Num Employed - Natural resources, construction, and maintenance occupations"
+DP03_0031E,O_PTM,"Num Employed - Production, transportation, and material moving occupations"
+DP03_0033E,I_AFFHM,"Num Employed - Agriculture, forestry, fishing and hunting, and mining"
+DP03_0034E,I_C,Num Employed - Construction
+DP03_0035E,I_M,Num Employed - Manufacturing
+DP03_0036E,I_WT,Num Employed - Wholesale trade
+DP03_0037E,I_RT,Num Employed - Retail trade
+DP03_0038E,I_TWU,"Num Employed - Transportation and warehousing, and utilities"
+DP03_0039E,I_I,Num Employed - In Information Industry
+DP03_0040E,I_FIRE,"Num Employed - Finance and insurance, and real estate and rental and leasing"
+DP03_0041E,I_PSMAW,"Num Employed - Professional, scientific, and management, and administrative and waste management services"
+DP03_0042E,I_ESHCSA,"Num Employed - Educational services, and health care and social assistance"
+DP03_0043E,I_AERAF,"Num Employed - Arts, entertainment, recreation, accomodation, and food services"
+DP03_0044E,I_OS,"Num Employed - Other services, except public administration"
+DP03_0045E,I_PA,Num Employed - Public administration
+DP03_0047E,CL_PWSW,Num Employed - Private wage and salary workers
+DP03_0048E,CL_GOV,Num Employed - Government workers
+DP03_0049E,CL_SE,Num Employed - Self-employed in own not incorporated business workers
+DP03_0050E,CL_UP,Num Employed - Unpaid family workers
+DP03_0062E,MEDIAN_INCOME,Median household income (dollars)
+DP03_0063E,MEAN_INCOME,Mean household income (dollars)
+DP03_0074E,FoodStamps,With Food Stamp/SNAP benefits in the past 12 months
+DP03_0093E,MEDIAN_MALE_EARNINGS,"Median earnings for male full-time, year-round workers (dollars)"
+DP03_0094E,MEDIAN_FEM_EARNINGS,"Median earnings for female full-time, year-round workers (dollars)"
+DP03_0096E,HI_ANY,Num Noninstitutionalized - With health insurance coverage
+DP03_0097E,HI_PRIV,Num Noninstitutionalized - With private health insurance
+DP03_0098E,HI_PUB,Num Noninstitutionalized - With public coverage
+DP03_0099E,HI_NONE,Num Noninstitutionalized - No health insurance coverage
+Year,Year,Year
